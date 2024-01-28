@@ -1,0 +1,14 @@
+.shell {
+  padding: var(--mantine-spacing-md);
+
+  .header {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    padding: var(--mantine-spacing-md);
+  }
+
+  .main {
+    padding-top: 60px;
+  }
+}
